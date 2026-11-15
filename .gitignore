@@ -1,0 +1,11 @@
+# Private source files & images
+src/
+
+# Python virtual environment
+.venv/
+
+# Local Node/StatiCrypt packages
+node_modules/
+package.json
+package-lock.json
+*.db
